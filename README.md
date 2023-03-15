@@ -35,19 +35,38 @@ Este proyecto se desarrolló utilizando las siguientes herramientas:
 ## 3. Situación actual de la empresa
 
 
+![AEROLINEAS](https://github.com/crisgo-data/Legal-Sky/blob/main/im%C3%A1genes/diapositiva1.JPG)
 
 
+![MESES Y CLIMATOLOGIA](https://github.com/crisgo-data/Legal-Sky/blob/main/im%C3%A1genes/diapositiva%202.JPG)
 
 
+![NACIONALIDADES](https://github.com/crisgo-data/Legal-Sky/blob/main/im%C3%A1genes/diapositiva%203.JPG)
 
 
 
 
 ## 4.1 Conclusiones
 
-Este proyecto ha permitido a Legal-Sky desarrollar una plataforma en línea para la gestión de contratos y documentos legales que cumple con los objetivos establecidos. La plataforma es fácil de usar, eficiente y segura, lo que permite a las empresas y las personas ahorrar tiempo y dinero en el proceso de contratación.
+- Base de datos inconsistente. 
+- Limpieza exhaustiva de los datos.
+- Se han añadido datos reales.
+- Visualización actual de la empresa para ayudar a la toma de decisiones futuras.
+
+
+
 
 ## 4.2 Pasos a seguir
 
-En el futuro, Legal-Sky tiene previsto mejorar la plataforma y agregar nuevas funciones, como la integración con otros sistemas y la capacidad de generar automáticamente contratos a partir de plantillas predefinidas. Además, la empresa tiene previsto ampliar su presencia en nuevos mercados y ofrecer sus servicios a una audiencia más amplia.
+- Mejorar ratio de reclamaciones por vuelo.
+
+- Contratar más personal para los meses de mayor demanda.
+
+- ¿Nuevas sedes en Bogotá y Palma de Mallorca?
+
+- Automatizar procesos de avisos a clientes.
+
+- Buscar más datos de las propias aerolineas para saber el motivo exacto de cada reclamación.
+
+- Captar nuevos datos de los clientes.
 
