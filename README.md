@@ -1,4 +1,4 @@
-![LEGAL-SKY](C:\Users\usuario\Desktop\Legal-Sky\imágenes\portada.jpg)
+![LEGAL-SKY](https://github.com/crisgo-data/Legal-Sky/blob/main/im%C3%A1genes/portada.JPG)
 
 
 Proyecto final de Legal-Sky, una empresa dedicada a demandar a las Aerolíneas por los retrasos sufridos por los pasajeros.
